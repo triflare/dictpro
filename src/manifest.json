@@ -1,0 +1,9 @@
+{
+  "name": "Dictionaries Pro",
+  "id": "tfDictionariesPro",
+  "version": "1.0.0",
+  "description": "Bring the full power of JSON to your TurboWarp projects.",
+  "author": "Triflare",
+  "license": "GPL-3.0-only",
+  "url": "https://github.com/triflare/dictpro"
+}
