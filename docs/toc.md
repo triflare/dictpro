@@ -6,7 +6,7 @@ Start with these pages:
 
 <!-- - [Do a Thing](do-a-thing.md) -->
 
-> [!HINT]
+> [!NOTE]
 >
 > Documentation is yet to be written. Please come back soon or contribute & write documentation yourself.
 
