@@ -44,7 +44,7 @@
     "chokidar": "^5.0.0",
     "esbuild": "^0.28.1",
     "eslint": "^10.6.0",
-    "globals": "^17.6.0",
+    "globals": "^17.7.0",
     "prettier": "^3.9.1",
     "terser": "^5.48.0"
   }
